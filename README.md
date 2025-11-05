@@ -23,13 +23,13 @@ Clone the repository and navigate to the folder:
 
 ```bash
 git clone https://github.com/KhadijaCodes-hub/Python-File-Manager.git
-cd file-management-system
+cd Python-File-Manager
 ````
 
 Run the app:
 
 ```bash
-python file_manager.py
+python file_management_app.py
 ```
 
 ---
@@ -61,7 +61,7 @@ File demo.txt created.
 
 ```
 📦 File-Management-System
- ┣ 📜 file_manager.py
+ ┣ 📜 file_management_app.py
  ┗ 📜 README.md
 ```
 
